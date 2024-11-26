@@ -1,0 +1,6 @@
+print(f"Igualdad: 10 == 3 es {10 == 3}")
+print(f"Desigualdad : 10 != 3 es {10 != 3}")
+print(f"Mayor que : 10 > 3 es {10>3}")
+print(f"Menor que: 3 < 10 es {3 < 10}")
+print(f"Mayor o igual que : 10 >= 3 es { 10 >= 3 }")
+print(f"Menor o igual que : 3 <= 10 {3 <= 10}")
