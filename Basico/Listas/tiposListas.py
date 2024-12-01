@@ -12,6 +12,7 @@ print(studentGrades*2)
 
 #Range list(range(inicio , fin, de cuanto))
 studen_Grades = list(range(0 , 11))
-student_Grades = list(range(0, 20 , 2))
 print(studen_Grades)
+
+student_Grades = list(range(0, 20 , 2))
 print (student_Grades)

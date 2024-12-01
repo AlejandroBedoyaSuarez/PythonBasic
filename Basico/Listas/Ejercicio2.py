@@ -1,3 +1,4 @@
+#Puedes buscar en https://docs.python.org/es/3/tutorial/datastructures.html
 #A continuación puedes ver una lista de notas_alumno. Tu tarea es usar Python para contar cuántos elementos con un valor de 10.0 hay en la lista notas_alumno. 
 #Una vez que encuentres el método de lista adecuado que cuente los elementos, imprime su salida usando una función print().
 
@@ -9,5 +10,6 @@ student_grades = [9.1, 8.8, 10.0, 7.7, 6.8, 8.0, 10.0, 8.1, 10.0, 9.9]
 """
 
 student_grades = [9.1, 8.8, 10.0, 7.7, 6.8, 8.0, 10.0, 8.1, 10.0, 9.9]
+
 #count(numeroNecesitado)
 print(student_grades.count(10))
